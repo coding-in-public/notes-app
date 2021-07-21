@@ -156,7 +156,7 @@ form {
   }
   [type="submit"]{
     background-color: $success;
-    box-shadow:  rgba($success, .2);
+    box-shadow: $boxs rgba($success, .2);
     border: 3px solid transparent;
     font-size: 1.3rem;
     color: white;
